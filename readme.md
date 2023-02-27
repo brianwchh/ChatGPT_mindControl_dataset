@@ -50,6 +50,9 @@
 
     A piece of extra interesting reading material : [mindcontrol tech to make people become religious and the liquid thaccine, https://vimeo.com/802464713 ](https://vimeo.com/802464713), use your own discretion, I did not say that guy is Bill Gates in the first video, it does no harm to watch it after all. 
 
+
+    [video on youtube , https://youtu.be/2JAWxbbZPqc](https://youtu.be/2JAWxbbZPqc)
+
     </br>
     </br>
     </br>
