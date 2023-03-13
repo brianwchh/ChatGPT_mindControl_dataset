@@ -1,3 +1,9 @@
+</br>
+
+![alt text](./images/thumbnail.png) 
+
+</br>
+
 - ## First thing first,SOS from mindControlled talented girls:   
 
     ![alt text](./images/SOSfromGEM.jpg)   
