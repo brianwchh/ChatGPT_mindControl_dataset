@@ -69,7 +69,7 @@
 
     </br>
 
-    **<span>[link to tutorial github repsository: https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq](https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq)</span>** 
+    **<span>深度學習機器視覺(雙目視覺3D攝像頭)FPGA加速教程 [link to tutorial github repsository: https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq](https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq)</span>** 
 
     </br>
 
